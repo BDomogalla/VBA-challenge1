@@ -1,5 +1,4 @@
 # VBA-challenge
-VBA homework for Bryan Domogalla
 individual_stock_VBA.bas is the code for the first component, which returns data about each individual stock's yearly performance.
 
 
